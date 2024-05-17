@@ -15,11 +15,7 @@ export * from './View'
 export * from './pivotControls'
 
 // Controls
-export * from './FaceControls'
 export { DragControls } from './DragControls'
-
-// Misc
-export * from './FaceLandmarker'
 
 // Shapes
 export * from './Facemesh'
